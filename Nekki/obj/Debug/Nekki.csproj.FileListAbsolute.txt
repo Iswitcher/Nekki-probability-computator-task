@@ -1,0 +1,6 @@
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\bin\Debug\Nekki.exe.config
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\bin\Debug\Nekki.exe
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\bin\Debug\Nekki.pdb
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\obj\Debug\Nekki.csprojResolveAssemblyReference.cache
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\obj\Debug\Nekki.exe
+d:\users\iswitcher\Google Drive\C#_workspace\Nekki\Nekki\obj\Debug\Nekki.pdb
